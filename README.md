@@ -9,7 +9,7 @@ My contributions include:
 This repository is a fork of the original project created during our academic work.
 
 
-CConnect CConnect is a location-based service marketplace that connects users with local service providers such as electricians, plumbers, technicians, and more. The platform allows users to browse, book, and avail services while enabling service providers to list their offerings and manage bookings.
+CConnect is a location-based service marketplace that connects users with local service providers such as electricians, plumbers, technicians, and more. The platform allows users to browse, book, and avail services while enabling service providers to list their offerings and manage bookings.
 
 Features For Users : 
 Browse and search for local services based on location
